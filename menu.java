@@ -18,6 +18,9 @@ public class menu {
                 case 2:
                     System.out.println("Hello You Select Choice 2");
                     break;
+                case 3:
+                    System.out.println("Hello You Select Choice 3");
+                    break;
                 default:
                     System.out.println("Sorry");
             }
